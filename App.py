@@ -1,0 +1,17 @@
+import time
+print("Kenobi: "+"its over Anakin, i have the high ground")
+time.sleep(2)
+print("Anakin: "+"you underestimate my power")
+time.sleep(2)
+print("Kenobi: "+"dont try it")
+time.sleep(2)
+print("Anakin: "+"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA")
+time.sleep(1)
+print("Kenobi: "+"you were the chosen one")
+time.sleep(2)
+print("Anakin: "+"i hate you")
+time.sleep(2)
+print("Kenobi: "+"you were my brother Anakin, i loved you")
+time.sleep(2)
+print("Yn-Skr: "+"May the 4th be with you and happy star wars day")
+
